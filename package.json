@@ -1,6 +1,6 @@
 {
 	"name": "@treeviz/xlsx-to-ged",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "Excel .xlsx to GEDCOM .ged converter with configurable column mapping (TypeScript)",
 	"type": "module",
 	"main": "dist/index.js",

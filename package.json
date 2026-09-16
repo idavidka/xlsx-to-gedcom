@@ -26,7 +26,8 @@
 		"dev:xlsx": "tsx src/cli-xlsx-to-ged.ts",
 		"generate:example": "tsx scripts/generate-example-xlsx.ts",
 		"test": "vitest run",
-		"test:watch": "vitest"
+		"test:watch": "vitest",
+		"prepublishOnly": "npm run build"
 	},
 	"repository": {
 		"type": "git",
